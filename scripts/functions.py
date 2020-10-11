@@ -1,2 +1,2 @@
 
-print('functions for analysing data')
+print('functions for analysing data in the Coursera_Capstone')
